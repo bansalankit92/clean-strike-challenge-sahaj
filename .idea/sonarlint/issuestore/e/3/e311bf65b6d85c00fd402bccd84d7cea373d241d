@@ -1,0 +1,24 @@
+
+U
+squid:S1068"9Replace this use of System.out or System.err by a logger.(ê¿J8¿ÔŞ­Ó-
+[
+squid:S1060"9Replace this use of System.out or System.err by a logger.(Ş’î€úÿÿÿÿ8¹å’„Ó-
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(³ë…¨8¬ÁÕœÓ-
+V
+squid:S1061"9Replace this use of System.out or System.err by a logger.(äÎ¡Ï8¬ÁÕœÓ-
+\"squid:SwitchLastCaseIsDefaultCheck?""Add a default case to this switch.(Ë›˜ùÿÿÿÿ8¬ÁÕœÓ-
+xsquid:S1450"URemove the "winner" field and declare it as a local variable in the relevant methods.(È·¢ûÿÿÿÿ8Á®×®Ó-
+U
+squid:S106;"9Replace this use of System.out or System.err by a logger.(ê¿J8ÃöŞ­Ó-
+[
+squid:S106."9Replace this use of System.out or System.err by a logger.(‡…“Œûÿÿÿÿ8¹å’„Ó-
+[
+squid:S106/"9Replace this use of System.out or System.err by a logger.(©è¦–ıÿÿÿÿ8¹å’„Ó-
+[
+squid:S106-"9Replace this use of System.out or System.err by a logger.(è²†ìøÿÿÿÿ8¹å’„Ó-
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(ûÉÜÊıÿÿÿÿ8É÷„Ó-
+[
+squid:S106,"9Replace this use of System.out or System.err by a logger.(¢¬ÓÓüÿÿÿÿ8¹å’„Ó-
+“"squid:SwitchLastCaseIsDefaultCheckW"YComplete cases by adding the missing enum constants or add a default case to this switch.(¡Õúÿÿÿÿ8¬ÁÕœÓ-
